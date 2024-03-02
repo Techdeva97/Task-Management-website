@@ -39,4 +39,4 @@ This web site allows you to manage your tasks efficiently and stay organized. It
 
 ## Thank You!
 
-Thank you for using my To-Do List app. I hope it helps you stay organized and productive. If you have any feedback or suggestions, please share them with me. Happy tasking!
+Thank you for using my Task management. I hope it helps you stay organized and productive. If you have any feedback or suggestions, please share them with me. Happy tasking!
